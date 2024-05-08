@@ -30,7 +30,7 @@ This project simulates and graphs the Lorenz curve using Monte Carlo methods to 
 1. Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone <https://github.com/sdp-dev/monte-carlo-lorenz.git>
     ```
 
 2. Install the required dependencies:
